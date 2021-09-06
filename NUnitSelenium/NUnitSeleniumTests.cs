@@ -69,7 +69,7 @@ namespace NUnitSelenium
         }
 
         [Test]
-       public void Todotest()
+       public void Todotest2()
         {
             {
                 Console.WriteLine("Navigating to todos app.");
